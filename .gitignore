@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+app/database/billing.db
+.DS_Store
